@@ -1,5 +1,4 @@
 # Personal Portfolio 🔥
-> https://kiprutobeauttah.github.io/
 
 :star: Star me on GitHub — it helps!
 
